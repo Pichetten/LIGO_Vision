@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 
 
-def freq_course(freq_array,f_bins,f_split):
+def freq_coarse(freq_array,f_bins,f_split):
 
     """inputs are a frequency array found from the FFT of
        the strain data, the size of the course array wanted
