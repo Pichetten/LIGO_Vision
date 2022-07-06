@@ -10,7 +10,7 @@ Original file is located at
 import numpy as np
 import matplotlib.pyplot as plt
 
-def PSD_course(PSD,f_course):
+def PSD_coarse(PSD,f_course):
 
     """ This function inputs the full resolution PSD and
         the coursened frequency array. The output is a 
